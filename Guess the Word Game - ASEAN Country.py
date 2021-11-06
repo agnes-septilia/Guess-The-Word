@@ -32,7 +32,7 @@ while i >= 0:
     #if more then 5 times failed, gameover. Otherwise, win.
     if wrong == 5:
         print("Game over!")
-        break       
+        break      
     if dashed == comp:
         print("Congratulations! You guess it right!")
         break
